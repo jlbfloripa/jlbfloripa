@@ -34,6 +34,15 @@
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
+## 📊 Minhas estatísticas no GitHub
+
+<p align="center">
+  <img height="165"
+    src="https://github-stats-extended.vercel.app/api?username=jlbfloripa&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=jlbfloripa&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
 ### 📂 Projetos
 
 Em breve, meus projetos de análise de dados estarão disponíveis aqui!
