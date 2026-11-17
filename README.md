@@ -1,16 +1,37 @@
-## Hi there 👋
+<h1 align="center">Olá! Eu sou Juliana 👋</h1>
 
-<!--
-**jlbfloripa/jlbfloripa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Data Analytics | Python | SQL | Power BI</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  Em transição de carreira para a área de Análise de Dados,
+  unindo pensamento analítico, criatividade e experiência em educação.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💻 Sobre mim
+
+- 📊 Estudante de Análise de Dados no SENAI/SC
+- 🐍 Aprendendo Python e desenvolvendo projetos práticos
+- 📚 Explorando SQL, visualização e análise de dados
+- 🎓 Mestre em Música e Educação Musical pela UDESC
+- 🚀 Construindo meu portfólio e evoluindo na área de dados
+
+### 🛠️ Tecnologias em desenvolvimento
+
+- Python
+- SQL
+- Pandas
+- NumPy
+- Matplotlib
+- Power BI
+
+### 📂 Projetos
+
+Em breve, meus projetos de análise de dados estarão disponíveis aqui!
+
+---
+
+<p align="center">
+  <i>Aprender, investigar, analisar e transformar dados em conhecimento.</i>
+</p>
