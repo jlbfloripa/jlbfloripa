@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" width="100%">
+  <img src="Juliana%Borghetti_%Dados%20M%C3%BAsica.png" width="100%">
 </p>
 
 <h1 align="center">Olá! Eu sou Juliana 👋</h1>
