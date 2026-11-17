@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" width="100%">
+</p>
+
 <h1 align="center">Olá! Eu sou Juliana 👋</h1>
 
 <h3 align="center">Data Analytics | Python | SQL | Power BI</h3>
