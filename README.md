@@ -43,6 +43,32 @@
     src="https://github-stats-extended.vercel.app/api/top-langs/?username=jlbfloripa&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
+<h2 align="center">🚀 Projetos em Destaque</h2>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <h3>📊 Análise de Dados — Varejo</h3>
+      <p>
+        Projeto prático de análise e exploração
+        de dados utilizando Python e Pandas.
+      </p>
+      <p>
+        <strong>Ferramentas:</strong><br>
+        Python | Pandas | NumPy | Matplotlib
+      </p>
+      <p>
+        <strong>Atividades:</strong><br>
+        Limpeza de dados, tratamento de inconsistências,
+        análise exploratória e visualização.
+      </p>
+      <a href="LINK_DO_SEU_PROJETO">
+        Acessar projeto
+      </a>
+    </td>
+  </tr>
+</table>
+
 ### 📂 Projetos
 
 Em breve, meus projetos de análise de dados estarão disponíveis aqui!
